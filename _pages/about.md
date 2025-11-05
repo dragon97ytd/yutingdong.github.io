@@ -20,7 +20,9 @@ After graduation, I joined SenseTime, continuing my work in computer vision rese
 Basic info about me
 ======
 Name: yutingdong \
-Email: tingdong.yu@gigaai.cc \
+Email1: tingdong.yu@gigaai.cc \
+Email2: 787924565@qq.com \
+Email3: yutingdong666@gmail.com \
 Work: giga.ai \
 Adress: 北京市海淀区五道口
 
